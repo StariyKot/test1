@@ -1,0 +1,5 @@
+.sectionMenu{
+  display: flex;
+  background: blue;
+  margin: 20px 30px 30px 30px;
+}
